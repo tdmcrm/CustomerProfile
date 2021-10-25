@@ -25,3 +25,8 @@ Penggunaan web based dashboard:
  - Login menggunakan account PBI 
  
 Catatan: Dashboard web based akan otomatis terupdate jika telah di republish ke server Power BI
+
+
+Link Dashboard .pbix 
+
+https://drive.google.com/file/d/1LIZyiAwCF3Fq23zPaQ2Jp0o8ROR2iFgb/view?usp=sharing
