@@ -21,3 +21,9 @@ Cara Penggunaan:
  - Lakukan import file pada PowerBI (Buka .pbix)
  - Sesuaikan path dari data (copy path dari output excel KNIME) 
  - Lakukan update dashboard rutin tiap awal bulan di bulan berikutnya.
+
+Penggunaan web based dashboard:
+ - Dashboard dapat di akses di tdmcrm.github.io/CustomerProfile
+ - Login menggunakan account PBI 
+ 
+Catatan: Dashboard web based akan otomatis terupdate jika telah di republish ke server Power BI
