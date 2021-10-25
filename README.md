@@ -1,7 +1,5 @@
 Manual Guide For Customer Profile 
 
-Page for Customer Profile with PowerBI & KNIME 
-
 What Containts Inside:
 
 - KNIME Files (.knwf)
